@@ -1,5 +1,9 @@
 # TinDev Frontend
 
+![Image01](other_files/screen02.PNG) 
+
+![Image01](other_files/screen03.PNG) 
+
 Projeto desenvolvido na semana OmniStack 8 da Rocketseat utilizando React JS.
 
 ## Objetivos
@@ -22,12 +26,6 @@ cd tindev-frontend
 # Instale as dependências NPM
 npm install
 ```
-
-![Image01](other_files/screen01.PNG) 
-
-![Image01](other_files/screen02.PNG) 
-
-![Image01](other_files/screen03.PNG) 
 
 ## Contribuições
 Pull requests são bem-vindos.
